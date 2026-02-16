@@ -1,0 +1,12 @@
+Myntra-Clone-Project Commands
+
+FRONTEND COMMANDS
+1. npm i bootstrap@5.3.8
+2. npm install react-icons --save
+3. npm install @reduxjs/toolkit (for redux toolkit liabrary)
+4. npm install react-router-dom
+5. npm install react-redux
+
+BACKEND COMMANDS
+1. npm install
+2. npm start (run 'npm audix fix' before npm start if any error occurred)
