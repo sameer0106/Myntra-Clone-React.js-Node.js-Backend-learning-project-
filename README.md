@@ -8,7 +8,8 @@ A responsive and dynamic Myntra-inspired e-commerce application built using:
 
 This project replicates core e-commerce functionalities like product listing, cart management, and order summary.
 
----
+UI screens :
+![image alt](https://github.com/sameer0106/Myntra-Clone-React.js-Node.js-Backend-learning-project-/blob/39d4a574567a17dd2972520c43c8fab6c3db80c3/UI%20ScreenShots/myntra%20clone.jpg)
 
 ## 🚀 Features
 
